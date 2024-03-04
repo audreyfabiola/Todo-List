@@ -43,9 +43,9 @@ The Todo List page displays the list of tasks added by the user. It allows users
 
 ### Screenshots
 
-![Screenshot 2024-03-04 at 10.54.46](/Users/clarissaaudrey/Desktop/Screenshot 2024-03-04 at 10.54.46.png)
+![Landing-page](/assets/Landing-page.png)
 
-![Screenshot 2024-03-04 at 10.55.21](/Users/clarissaaudrey/Desktop/Screenshot 2024-03-04 at 10.55.21.png)
+![Todolist-page](/assets/Todolist-page.png)
 
 
 
