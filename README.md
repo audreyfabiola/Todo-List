@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 
 # Todo List App ᡣ𐭩
 
-This is a simple Todo List application where users can manage their tasks effectively. The app provides features to add, edit, and delete tasks. It also includes two main pages: the landing page and the Todo List page.
+This is a simple Todo List application where users can manage their tasks effectively. The app provides features to add, edit, delete, filter, and mark tasks. It also includes two main pages: the landing page and the Todo List page.
 
 
 ### Features
