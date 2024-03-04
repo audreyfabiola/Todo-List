@@ -16,28 +16,15 @@ This is a simple Todo List application where users can manage their tasks effect
 
 
 ### Features
-- **Add Tasks**
-
-Users can add tasks by entering task details.
-
-- **Edit Tasks**
-
-Users can edit existing tasks to update task details.
-
-- **Delete Tasks**
-
-Users can delete tasks that are no longer needed.
+- **Add Tasks**: Users can add tasks by entering task details.
+- **Edit Tasks**: Users can edit existing tasks to update task details.
+- **Delete Tasks**: Users can delete tasks that are no longer needed.
 
 
 ### Pages Available
 
-- **Landing Page**
-
-The landing page serves as the entry point to the Todo List app. 
-
-- **Todo List Page**
-
-The Todo List page displays the list of tasks added by the user. It allows users to perform actions such as adding, editing, and deleting tasks
+- **Landing Page**: The landing page serves as the entry point to the Todo List app. 
+- **Todo List Page**: The Todo List page displays the list of tasks added by the user. It allows users to perform actions such as adding, editing, and deleting tasks
 
 
 ### Screenshots
