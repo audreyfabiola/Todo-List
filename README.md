@@ -19,6 +19,8 @@ This is a simple Todo List application where users can manage their tasks effect
 - **Add Tasks**: Users can add tasks by entering task details.
 - **Edit Tasks**: Users can edit existing tasks to update task details.
 - **Delete Tasks**: Users can delete tasks that are no longer needed.
+- **Filter Tasks**: Users can filter tasks on whether it is completed or not.
+- **Mark Tasks**: Users can mark completed tasks by clicking on the checkbox.
 
 
 ### Pages Available
