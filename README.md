@@ -15,18 +15,18 @@ Currently, two official plugins are available:
 This is a simple Todo List application where users can manage their tasks effectively. The app provides features to add, edit, and delete tasks. It also includes two main pages: the landing page and the Todo List page.
 
 
-
-## Features
-
+### Features
 - **Add Tasks**
-  Users can add tasks by entering task details.
+
+Users can add tasks by entering task details.
 
 - **Edit Tasks**
-  Users can edit existing tasks to update task details.
+
+Users can edit existing tasks to update task details.
 
 - **Delete Tasks**
-  Users can delete tasks that are no longer needed.
 
+Users can delete tasks that are no longer needed.
 
 
 ### Pages Available
@@ -40,13 +40,11 @@ The landing page serves as the entry point to the Todo List app.
 The Todo List page displays the list of tasks added by the user. It allows users to perform actions such as adding, editing, and deleting tasks
 
 
-
 ### Screenshots
 
 ![Landing-page](/assets/Landing-page.png)
 
 ![Todolist-page](/assets/Todolist-page.png)
-
 
 
 ### **Link to the Todo List App**
