@@ -12,7 +12,7 @@ export function TodoItem({ completed, id, title, toggleTodo, deleteTodo, editTod
         <input 
           value={editedTitle}
           onChange={(e) => setEditedTitle(e.target.value)}
-          className="grow rounded-lg ml-2" 
+          className="bg-pink-50 grow rounded-lg ml-2" 
         />
         <button className="bg-pink-400 hover:bg-pink-700 text-white font-bold text-sm py-1 px-2 rounded-full flex-none" onClick={() => { editTodo(id, editedTitle); setIsEditing(false); }} disabled={editedTitle.length === 0}>
           Save
